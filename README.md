@@ -1,9 +1,9 @@
 # Conversational AI Chatbots
-<\hr>
-##Overview:
+
+## Overview:
 In this project, we aim to enhance customer experience and accessibility by integrating a conversational AI chatbot built on Amazon Lex with WhatsApp using Twilio's messaging platform. The focus of this integration is to facilitate hotel bookings seamlessly through WhatsApp, providing users with a convenient and familiar communication channel.
 
-##Key Components:
+## Key Components:
 
 Amazon Lex Chatbot for Hotel Booking: We will develop a robust chatbot using Amazon Lex tailored specifically for hotel reservations. The chatbot will be capable of understanding user intents, extracting relevant information through slots, and providing appropriate responses.
 
@@ -17,7 +17,7 @@ WhatsApp Integration with Twilio: Utilizing Twilio's capabilities, we will set u
 
 Interacting with the Chatbot via WhatsApp: Once the integration is complete, users can initiate conversations with the hotel booking chatbot by sending messages through WhatsApp. They can inquire about room availability, make reservations, specify check-in dates and duration of stay, and receive confirmation messages directly within the WhatsApp interface.
 
-##Project Goals:
+## Project Goals:
 
 Enable users to effortlessly book hotel accommodations using their preferred messaging platform, WhatsApp.
 Provide a seamless conversational experience by leveraging natural language understanding capabilities offered by Amazon Lex.

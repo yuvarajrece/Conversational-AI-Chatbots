@@ -5,6 +5,8 @@ In this project, we aim to enhance customer experience and accessibility by inte
 
 ## Key Components:
 
+https://github.com/yuvarajrece/Conversational-AI-Chatbots/assets/131381006/a645ff6a-985c-4e14-8c81-45138aa202bd
+
 Amazon Lex Chatbot for Hotel Booking: We will develop a robust chatbot using Amazon Lex tailored specifically for hotel reservations. The chatbot will be capable of understanding user intents, extracting relevant information through slots, and providing appropriate responses.
 
 Twilio Account and Number Setup: To enable communication via WhatsApp, we will utilize Twilio's messaging services. This involves setting up a Twilio account and obtaining a dedicated phone number to serve as the interface for users to interact with the chatbot.

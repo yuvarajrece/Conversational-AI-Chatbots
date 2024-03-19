@@ -14,7 +14,7 @@ https://github.com/yuvarajrece/Conversational-AI-Chatbots/assets/131381006/2de33
 
 ### Amazon Lex Chatbot for Hotel Booking: 
 
-The chatbot will be capable of understanding user intents, extracting relevant information through slots, and providing appropriate responses.
+- The chatbot will be capable of understanding user intents, extracting relevant information through slots, and providing appropriate responses.
 
 ### Twilio Account and Number Setup: 
 
@@ -22,19 +22,19 @@ To enable communication via WhatsApp, we will utilize Twilio's messaging service
 
 ### Creating Bot Version and Alias: 
 
-Within the Amazon Lex console,  create a version and alias for our chatbot, allowing us to manage and deploy updates effectively while ensuring backward compatibility.
+- Within the Amazon Lex console,  create a version and alias for our chatbot, allowing us to manage and deploy updates effectively while ensuring backward compatibility.
 
 ### Integration of Amazon Lex with Twilio: 
 
-Configure the integration between Amazon Lex and Twilio, enabling the chatbot to receive and respond to messages sent via WhatsApp. This integration will involve defining webhook endpoints and configuring message routing.
+- Configure the integration between Amazon Lex and Twilio, enabling the chatbot to receive and respond to messages sent via WhatsApp. This integration will involve defining webhook endpoints and configuring message routing.
 
 ### WhatsApp Integration with Twilio: 
 
-Utilizing Twilio's capabilities, we will set up WhatsApp integration by linking the Twilio phone number with the WhatsApp Business API. This step is crucial for enabling bidirectional communication between users on WhatsApp and the Amazon Lex chatbot.
+- Utilizing Twilio's capabilities, we will set up WhatsApp integration by linking the Twilio phone number with the WhatsApp Business API. This step is crucial for enabling bidirectional communication between users on WhatsApp and the Amazon Lex chatbot.
 
 ### Interacting with the Chatbot via WhatsApp:
 
-Once the integration is complete, users can initiate conversations with the hotel booking chatbot by sending messages through WhatsApp. They can inquire about room availability, make reservations, specify check-in dates and duration of stay, and receive confirmation messages directly within the WhatsApp interface.
+- Once the integration is complete, users can initiate conversations with the hotel booking chatbot by sending messages through WhatsApp. They can inquire about room availability, make reservations, specify check-in dates and duration of stay, and receive confirmation messages directly within the WhatsApp interface.
 
 ## Project Goals:
 

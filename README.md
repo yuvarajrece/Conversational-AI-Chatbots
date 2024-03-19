@@ -1,7 +1,7 @@
 # Conversational AI Chatbots
 
 ## Overview:
-In this project, we aim to enhance customer experience and accessibility by integrating a conversational AI chatbot built on Amazon Lex with WhatsApp using Twilio's messaging platform. The focus of this integration is to facilitate hotel bookings seamlessly through WhatsApp, providing users with a convenient and familiar communication channel.
+In this project, to enhance customer experience and accessibility by integrating a conversational AI chatbot built on Amazon Lex with WhatsApp using Twilio's messaging platform. The focus of this integration is to facilitate hotel bookings seamlessly through WhatsApp, providing users with a convenient and familiar communication channel.
 
 ## Key Components:
 
